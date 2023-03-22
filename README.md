@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First,install the following:
+
 npm install @heroicons/react
 
 npm install tailwind-scrollbar-hide
