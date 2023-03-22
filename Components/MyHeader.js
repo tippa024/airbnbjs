@@ -6,7 +6,7 @@ function MyHeader() {
     <header className="top-0 z-50 grid grid-cols-3 bg-white shadow-lg p-5 md:p-7">
       {/* Left */}
       <div className="relative flex items-center h-10 cursor-pointer my-auto">
-        <Image src="https://links.papareact.com/qd3" layout="fill" objectFit="contain" style={{ objectPosition: 'left' }} alt="Airbnb logo" />
+        <Image src="https://links.papareact.com/qd3" width={150} height={150} style={{ objectPosition: 'left' }} alt="Airbnb logo" />
       </div>
 
       {/* Middle - Search */}
