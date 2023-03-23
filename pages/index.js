@@ -1,12 +1,12 @@
 import Head from 'next/head';
-import Header from '../Components/MyHeader';
-import Banner from '../Components/Banner';
+import Header from '../components/MyHeader';
+import Banner from '../components/Banner';
 import fs from 'fs';
 import path from 'path';
-import SmallCard from '../Components/SmallCard';
-import MediumCard from '../Components/MediumCard';
-import LargeCard from '../Components/LargeCard';
-import Footer from '../Components/Footer';
+import SmallCard from '../components/SmallCard';
+import MediumCard from '../components/MediumCard';
+import LargeCard from '../components/LargeCard';
+import Footer from '../components/Footer';
 
 
 export default function Home({ exploreData, cardsData }) {
