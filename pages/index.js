@@ -57,7 +57,7 @@ export default function Home({ exploreData, cardsData }) {
 
         <section>
               <LargeCard
-              img='https:links.papareact.com/4cj'
+              img='https//:links.papareact.com/4cj'
               title='The Greatest of All Time'
               description='Top Gs only'
               buttonText='Get Ready'
